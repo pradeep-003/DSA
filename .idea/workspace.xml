@@ -4,21 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73730e06-e2fb-4ce5-ab1e-c0327dbea4f5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Duplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/MissingElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Palindrome0.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/ReverseArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/RotationMatrix.java" afterDir="false" />
+    <list default="true" id="73730e06-e2fb-4ce5-ab1e-c0327dbea4f5" name="Changes" comment="#13,Nov">
+      <change afterPath="$PROJECT_DIR$/src/Arrays/MissingElement1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/optimizedPrefixSumApproach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/prefixSumApproach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/RotationMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/RotationMatrix.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +56,18 @@
       <option name="presentableId" value="Default" />
       <updated>1694921309010</updated>
     </task>
+    <task id="LOCAL-00001" summary="#13,Nov">
+      <created>1699843846675</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1699843846675</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="#13,Nov" />
+    <option name="LAST_COMMIT_MESSAGE" value="#13,Nov" />
   </component>
 </project>

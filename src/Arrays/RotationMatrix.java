@@ -5,10 +5,10 @@ import java.util.Arrays;
 public class RotationMatrix {
 
     public static void rotatedMatrix(int[][] arr){
-        //Step 1: Transpose the 2D array
         int m = arr.length;
         int n = arr[0].length;
 
+                        //Step 1: Transpose the 2D array
         for(int i=0;i<m;i++){
             for(int j=i;j<n;j++){
                 int temp = arr[i][j];
@@ -17,7 +17,7 @@ public class RotationMatrix {
             }
         }
 
-        //Step 2: Swap the left and right side element
+                        //Step 2: Swap the left and right side element
         for(int i=0; i<m; i++){
             int li = 0;
             int ri = n-1;
@@ -44,3 +44,6 @@ public class RotationMatrix {
         }
     }
 }
+
+//Time complexity -->  O(m * n)
+//Space complexity --> O(1)
