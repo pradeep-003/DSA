@@ -20,8 +20,8 @@ public class optimizedPrefixSumApproach {
 
         //traversed the array column-wise to calculate the column wise prefix sum
         //final 2D array
-        for(int j=0;j<n;j++){
-            for(int i=1;i<m;i++){
+        for(int i=1;i<n;i++){
+            for(int j=0;j<m;j++){
                 arr[i][j] += arr[i-1][j];
             }
         }
