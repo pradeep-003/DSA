@@ -4,13 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73730e06-e2fb-4ce5-ab1e-c0327dbea4f5" name="Changes" comment="2,feb">
-      <change afterPath="$PROJECT_DIR$/src/SearchingSortingAndBitManipulation/Assignment/Que2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SearchingSortingAndBitManipulation/Assignment/Que3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SearchingSortingAndBitManipulation/Assignment/Que4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SearchingSortingAndBitManipulation/Assignment/Que5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SearchingSortingAndBitManipulation/Assignment/Que6.java" afterDir="false" />
+    <list default="true" id="73730e06-e2fb-4ce5-ab1e-c0327dbea4f5" name="Changes" comment="3,feb">
+      <change afterPath="$PROJECT_DIR$/src/SearchingSortingAndBitManipulation/Assignment/Prob3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SearchingSortingAndBitManipulation/Assignment/Que10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SearchingSortingAndBitManipulation/Assignment/Que7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SearchingSortingAndBitManipulation/Assignment/Que8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SearchingSortingAndBitManipulation/Assignment/Que9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SearchingSortingAndBitManipulation/Assignment/Que6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SearchingSortingAndBitManipulation/Assignment/Que6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/SearchingSortingAndBitManipulation/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SearchingSortingAndBitManipulation/BubbleSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -104,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1706875320149</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="3,feb">
+      <created>1706936586284</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1706936586284</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -112,6 +120,7 @@
     <MESSAGE value="#30,Nov" />
     <MESSAGE value="1,feb" />
     <MESSAGE value="2,feb" />
-    <option name="LAST_COMMIT_MESSAGE" value="2,feb" />
+    <MESSAGE value="3,feb" />
+    <option name="LAST_COMMIT_MESSAGE" value="3,feb" />
   </component>
 </project>

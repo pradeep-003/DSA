@@ -5,8 +5,8 @@ import java.util.Arrays;
 public class BubbleSort {
 
     public static void bubbleSort(int []arr){
-        boolean swapped = false;
         for(int i=0;i<arr.length-1;i++){
+            boolean swapped = false;
             //for every iteration we get the biggest element in an array in the end.
             for(int j=0;j<arr.length-i-1;j++){
                 if(arr[j]>arr[j+1]){
